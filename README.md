@@ -1,2 +1,2 @@
-# Welcome to Littlebird!
-## Github Repository for Littlebird Metaverse
+# Littlebird Metaverse
+## Where will you go today?
